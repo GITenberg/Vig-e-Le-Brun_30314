@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34515'
     url: http://www.gutenberg.org/2009/agents/34515
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30314#Vig-e-Le-Brun
 gutenberg_bookshelf: Masterpieces in Colour
 gutenberg_issued: '2009-10-22'
 gutenberg_type: Text
