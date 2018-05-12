@@ -1,0 +1,28 @@
+_repo: Vig-e-Le-Brun_30314
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30314-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: MacFall, Haldane
+    alias: Macfall, Chambers Haldane Cooke
+    birthdate: 1860
+    deathdate: 1928
+    gutenberg_agent_id: '34515'
+    url: http://www.gutenberg.org/2009/agents/34515
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2009-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vigée-Lebrun, Louise-Elisabeth, 1755-1842'
+- !lcc 'ND'
+title: Vigée Le Brun
+url: http://www.gutenberg.org/ebooks/30314
